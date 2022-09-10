@@ -1,0 +1,5 @@
+"0","x1 <- inpatient2022_sum$doentes_saidos_var"
+"0",""
+"0","valueBox(x1, "
+"0","         icon = ""fa-file-medical"","
+"0","         color=""#fdd49e"")"

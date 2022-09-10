@@ -1,0 +1,7 @@
+"0",""
+"0","inpatient_sum <- inpatient_hospital_lite %>%"
+"0","  group_by(periodo) %>%"
+"0","  summarise(doentes_saidos_var=sum(doentes_saidos_var, na.rm = TRUE),"
+"0","            dias_de_internamento_var=sum(dias_de_internamento_var, na.rm = TRUE),"
+"0","            )"
+"0",""

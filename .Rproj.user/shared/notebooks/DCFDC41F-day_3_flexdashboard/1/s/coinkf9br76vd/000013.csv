@@ -1,0 +1,5 @@
+"0",""
+"0","rate <- 300"
+"0","gauge(rate, min = 0, max = 960, symbol = '', gaugeSectors("
+"0","  success = c(0, 120), warning = c(120, 480), danger = c(480, 960)"
+"0","))"

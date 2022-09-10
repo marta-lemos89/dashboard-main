@@ -1,0 +1,5 @@
+"0","x2 <- inpatient2022_sum$dias_de_internamento_var"
+"0",""
+"0","valueBox(x2, "
+"0","         icon = ""fa-hospital"","
+"0","         color=""#fc8d59"")"

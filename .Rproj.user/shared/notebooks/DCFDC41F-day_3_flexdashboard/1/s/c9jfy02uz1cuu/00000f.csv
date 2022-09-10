@@ -1,0 +1,12 @@
+"0","# READ THIS"
+"0","# https://pkgs.rstudio.com/flexdashboard/articles/flexdashboard.html "
+"0","inpatient_hospital_lite <- read_csv(""datasets/inpatient_hospital_lite.csv"")"
+"2","[1mRows: [22m[34m7736[39m [1mColumns: [22m[34m18[39m"
+"2","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m   (6): instituicao, tipo_de_especialidade, month, weekday, instituicao1, tipo_instituicao
+[32mdbl[39m  (11): doentes_saidos, dias_de_internamento, length_patiant, new_var, year, week, doentes...
+[34mdate[39m  (1): periodo"
+"2","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message."

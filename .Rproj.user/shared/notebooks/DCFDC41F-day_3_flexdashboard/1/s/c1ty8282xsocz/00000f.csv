@@ -1,0 +1,7 @@
+"0","inpatient2022 <- inpatient_hospital_lite %>%"
+"0","  filter(year==2022)"
+"0",""
+"0","inpatient2022_sum <- inpatient2022 %>%"
+"0","  summarise(doentes_saidos_var=sum(doentes_saidos_var, na.rm = TRUE),"
+"0","            dias_de_internamento_var=sum(dias_de_internamento_var, na.rm = TRUE),"
+"0","            )"
